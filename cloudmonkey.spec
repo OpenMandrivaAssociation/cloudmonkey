@@ -8,6 +8,8 @@ Summary:	CLI (Command Line Interface) for Apache CloudStack
 URL:		https://github.com/apache/cloudstack-cloudmonkey/
 License:	Apache-2.0
 Group:		Servers
+BuildRequires:	make
+BuildRequires:	golang
 
 %description
 cloudmonkey ☁️🐵 is a command line interface (CLI) for Apache CloudStack.
