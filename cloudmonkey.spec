@@ -1,7 +1,7 @@
 %undefine _debugsource_packages
 
 Name:		cloudmonkey
-Version:	6.4.0
+Version:	6.5.0
 Release:	1
 Source0:	https://github.com/apache/cloudstack-cloudmonkey/archive/refs/tags/%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	CLI (Command Line Interface) for Apache CloudStack
